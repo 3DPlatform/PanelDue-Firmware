@@ -1,2 +1,2 @@
 # PanelDueFirmware
-Firmware for 3D Platform Workseries Printersa
+Firmware for 3D Platform Workseries Printers.
